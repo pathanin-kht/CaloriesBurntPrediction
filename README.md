@@ -7,10 +7,6 @@ This project predicts calories burned during workouts using a Random Forest Regr
 ## Dataset
 The dataset used for training is from [Calories Burnt Prediction](https://www.kaggle.com/datasets/ruchikakumbhar/calories-burnt-prediction?resource=download)
 
-## Model Training
-
-The dataset is preprocessed by encoding categorical values and standardizing numerical features. A Random Forest Regressor with 100 estimators is trained on the data, providing robust predictions.
-
 ## Results
 
 **Error Metrics:**
